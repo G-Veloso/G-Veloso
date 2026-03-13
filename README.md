@@ -1,4 +1,4 @@
-# Hi there! I'm Gustavo
+# Hey, I'm Gustavo
 
 I am an aspiring **SOC Analyst** and **Cybersecurity** enthusiast dedicated to network security, incident response, and threat detection. My focus is on understanding network protocols, traffic analysis, and defensive security frameworks.
 
