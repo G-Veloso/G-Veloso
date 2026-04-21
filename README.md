@@ -16,7 +16,7 @@ I am an aspiring **SOC Analyst** and **Cybersecurity** enthusiast dedicated to n
 ---
 
 ### 🌐 Let's Connect
-- **LinkedIn:** -- https://www.linkedin.com/in/gustavo-l-veloso-512a34381/
+- **LinkedIn:** -- https://www.linkedin.com/in/gustavoveloso-cybersecurity
 - **Email:** -- gustavolopesveloso16@gmail.com
 - **TryHackMe:** https://tryhackme.com/p/Teree
 
